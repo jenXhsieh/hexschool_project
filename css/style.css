@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    font-size: 13;
+}
+
+h1:hover{
+    color: red;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 18;
+}
+
+a{
+    color: black;
+
+}
+
+a:hover{
+    color: red;
+    font-size: 20;
+}
+
+a:active{
+    color:green
+}
+
+.pink{
+    color:pink
+}
